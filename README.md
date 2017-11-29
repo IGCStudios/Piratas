@@ -6,7 +6,7 @@ Poseidon es el Lobo de mar en realidad todo el tiempo enfrente de tus narices ha
 
 Juego de piratillas para androidº
 
-Colaboradores | 
+Colaboradores | Que rasca 
 ------------ | -------------
 @Ivanpsl | Programa
 @CristianGD | Pica piedras
