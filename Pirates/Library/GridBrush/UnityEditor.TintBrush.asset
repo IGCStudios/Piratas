@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5461c6f43c33cae4e8367042630017f7, type: 3}
   m_Name: Tint Brush
   m_EditorClassIdentifier: 
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.4522059, g: 0.9044118, b: 0.6611561, a: 1}

@@ -17,11 +17,10 @@ public class LocalizationManager : MonoBehaviour {
 	void Awake () {
 		if (instance == null) {
 			instance = this;
-<<<<<<< HEAD
+
 			//CargarTextoLocalizado ("leng_en.json");
-=======
 			CargarTextoLocalizado ("leng_es.json");
->>>>>>> Try
+
 		} else if (instance != this) {
 			Destroy (gameObject);
 		}
