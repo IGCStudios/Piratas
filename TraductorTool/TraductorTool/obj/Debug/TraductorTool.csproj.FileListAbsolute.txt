@@ -1,0 +1,12 @@
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.csprojResolveAssemblyReference.cache
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.Form1.resources
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.Properties.Resources.resources
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.csproj.GenerateResource.Cache
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.csproj.CoreCompileInputs.cache
+D:\Unity\Piratas\TraductorTool\TraductorTool\bin\Debug\TraductorTool.exe.config
+D:\Unity\Piratas\TraductorTool\TraductorTool\bin\Debug\TraductorTool.exe
+D:\Unity\Piratas\TraductorTool\TraductorTool\bin\Debug\TraductorTool.pdb
+D:\Unity\Piratas\TraductorTool\TraductorTool\bin\Debug\Newtonsoft.Json.dll
+D:\Unity\Piratas\TraductorTool\TraductorTool\bin\Debug\Newtonsoft.Json.xml
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.exe
+D:\Unity\Piratas\TraductorTool\TraductorTool\obj\Debug\TraductorTool.pdb

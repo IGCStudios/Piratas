@@ -8,7 +8,10 @@ public class MovimientoBarco : MonoBehaviour {
     Rigidbody2D rigidPlayerShip;
     public float BaseSpeed { get; set; }
     public Vector3 WindSpeed { get; set; }
-    
+
+    public List<Transform> rightCannons;
+    public List<Transform> leftCannons;
+
 	void Start () {
         BaseSpeed = 1f;
         WindSpeed = new Vector3(0, 0, 0) ;
@@ -24,9 +27,13 @@ public class MovimientoBarco : MonoBehaviour {
         {
             rotateRight();
         }
-          else if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A))
         {
             rotateLeft();
+        }
+        if (Input.GetKey(KeyCode.Q))
+        {
+            shootLeftCannons();
         }
       
     }
@@ -51,5 +58,14 @@ public class MovimientoBarco : MonoBehaviour {
         rigidPlayerShip.MoveRotation(rigidPlayerShip.rotation + 0.05f);
        // rigidPlayerShip.gameObject.transform.Rotate(new Vector3(0, -1, 0) * Time.deltaTime * BaseSpeed, Space.World);
         Debug.Log(" rotando");
+    }
+
+    void ShootRightCannons()
+    {
+
+    }
+    void ShootLeftCannons()
+    {
+
     }
 }

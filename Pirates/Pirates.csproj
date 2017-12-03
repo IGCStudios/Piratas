@@ -228,11 +228,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Localizacion\LocalizationData.cs" />
-    <Compile Include="Assets\Localizacion\LocalizationManager.cs" />
-    <Compile Include="Assets\Localizacion\LocalizedTextEditor.cs" />
-    <Compile Include="Assets\Localizacion\StartupManager.cs" />
     <Compile Include="Assets\Scripts\ColisionBarco.cs" />
+    <Compile Include="Assets\Scripts\Localizacion\LocalizationData.cs" />
+    <Compile Include="Assets\Scripts\Localizacion\LocalizationManager.cs" />
+    <Compile Include="Assets\Scripts\Localizacion\LocalizedTextEditor.cs" />
+    <Compile Include="Assets\Scripts\Localizacion\StartupManager.cs" />
     <Compile Include="Assets\Scripts\MovimientoBarco.cs" />
     <Compile Include="Assets\Scripts\SpinningCube.cs" />
     <Compile Include="Assets\Tools2D\Add-Ons\2D Extras\Brushes\Tint Brush Smooth\Scripts\TintTextureGenerator.cs" />
